@@ -1,0 +1,8 @@
+*.so
+*.o
+*.out
+*.so.?*
+*~
+
+/build*
+/cmake*
