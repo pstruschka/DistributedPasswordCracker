@@ -7,5 +7,6 @@ A distributed system to attempt to crack DES encrypted passwords. Given as assig
 ### Prerequisites
 
 ```
+*nix
 cmake
 ```
